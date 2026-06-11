@@ -113,8 +113,11 @@ nav a:hover{
     background:white;
     border-radius:15px;
     overflow:hidden;
-    box-shadow:0 10px 20px rgb(0, 0, 0);
     transition:.3s;
+}
+
+.card.animar.mostrar {
+    box-shadow:0 10px 20px rgba(0, 0, 0, 0.7);
 }
 
 .card.animar.mostrar:hover{
