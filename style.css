@@ -121,7 +121,7 @@ nav a:hover{
     transform: scale(1.1);
 }
 
-.animar.mostrar {
+.animar.mostrar:hover {
     background: #222;
 }
 
