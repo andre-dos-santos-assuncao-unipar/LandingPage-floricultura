@@ -192,7 +192,10 @@ button{
     border-radius:8px;
     cursor:pointer;
     font-size:1rem;
-    transition: 0.3S;
+}
+
+button.animar.mostrar{
+    transition: .3s;
 }
 
 button:hover{
