@@ -121,8 +121,8 @@ nav a:hover{
     transform: scale(1.1);
 }
 
-div .card.animar.mostrar {
-    background-color: #222;
+.animar.mostrar {
+    background: #222;
 }
 
 .card img{
