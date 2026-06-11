@@ -117,7 +117,7 @@ nav a:hover{
 }
 
 .card.animar.mostrar {
-    box-shadow:2 10px 18px rgba(0, 0, 0, 0.2);
+    box-shadow:2px 10px 18px rgba(0, 0, 0, 0.2);
 }
 
 .card.animar.mostrar:hover{
