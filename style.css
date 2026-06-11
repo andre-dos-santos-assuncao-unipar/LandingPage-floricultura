@@ -117,9 +117,8 @@ nav a:hover{
     transition:.3s;
 }
 
-.card:hover{
-    transform:translateY(-10px);
-    transform: scale(1.1);
+.card img:hover{
+    transform:translateY(-10px), scale(1.1);
 }
 
 .card img{
